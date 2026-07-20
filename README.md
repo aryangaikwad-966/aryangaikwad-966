@@ -1,12 +1,13 @@
 <div align="center">
 
-# Hi there 👋 I'm Aryan Gaikwad
+# Aryan Gaikwad
 
 ### Java Backend Engineer • AI Backend Engineer • Agentic AI Enthusiast
 
-Building scalable backend systems, distributed applications, and AI-powered software with Java & Spring Boot.
+Building scalable backend systems, distributed architectures, and AI-powered applications with Java & Spring Boot.
 
 <p>
+
 <a href="mailto:aryangaikwad966@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -15,144 +16,194 @@ Building scalable backend systems, distributed applications, and AI-powered soft
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/_aryannn6_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<a href="https://github.com/aryangaikwad-966">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=aryangaikwad-966&style=for-the-badge&color=0e75b6"/>
+<img src="https://komarev.com/ghpvc/?username=aryangaikwad-966&style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# About Me
 
-🎓 Final Year Information Technology Student
+I'm a final-year Information Technology student focused on backend engineering, distributed systems, and AI-powered software.
 
-💡 Passionate about building production-ready backend systems, distributed architectures, and AI-powered applications.
+My primary interest is designing production-style systems that emphasize scalability, concurrency, reliability, security, and clean architecture.
 
-🎯 **Career Goal**
+### Career Focus
 
-```
 Java Backend Engineer
-        ↓
+
+↓
+
 AI Backend Engineer
-        ↓
+
+↓
+
 Agentic AI Engineer
-```
 
 ---
 
-# 🔨 Featured Projects
+# Featured Projects
 
-## 🛒 Cranberry
+## FlowForge
 
-AI-powered Multi-Vendor Marketplace built with Spring Boot, React, JWT Authentication, Razorpay Integration, and Local LLM Assistant.
+Production-grade Workflow Orchestration Engine
 
-**Tech**
+**Highlights**
 
-Java • Spring Boot • React • MySQL • JWT • Ollama • Docker
+- Workflow state engine
+- Optimistic Locking
+- Transaction Management
+- Spring Events
+- Asynchronous Processing
+- Caffeine Cache
+- Docker
 
----
+**Stack**
 
-## ⚙️ FlowForge
-
-Workflow Orchestration Engine supporting scalable workflow execution, optimistic locking, caching, and event-driven architecture.
-
-**Tech**
-
-Java • Spring Boot • MySQL • Spring Events • Caffeine Cache • Docker
-
----
-
-## 💳 UPI Offline Mesh
-
-Offline-first Payment Routing Infrastructure implementing Redis idempotency, encryption, retries, and distributed backend architecture.
-
-**Tech**
-
-Java • Spring Boot • PostgreSQL • Redis • Docker • AWS KMS
+Java 17 • Spring Boot • MySQL • React • Docker
 
 ---
 
-# 🌱 Currently Learning
+## Cranberry
+
+AI-Powered Multi-Vendor Marketplace
+
+**Highlights**
+
+- Multi-tenant Architecture
+- JWT Authentication
+- Razorpay Integration
+- Ollama Integration
+- AI Shopping Assistant
+
+**Stack**
+
+Java • Spring Boot • React • MySQL
+
+---
+
+## MeshPay
+
+Offline-First Payment Infrastructure
+
+**Highlights**
+
+- Redis Idempotency
+- Hybrid Encryption
+- Retry Mechanisms
+- Fault Tolerance
+- Prometheus Metrics
+
+**Stack**
+
+Java • Spring Boot • PostgreSQL • Redis • Docker
+
+---
+
+# Tech Stack
+
+### Languages
+
+Java • SQL • JavaScript • TypeScript
+
+### Backend
+
+Spring Boot
+
+Spring Security
+
+Spring MVC
+
+REST APIs
+
+JWT
+
+Hibernate
+
+JUnit 5
+
+Mockito
+
+### Databases
+
+MySQL
+
+PostgreSQL
+
+Redis
+
+### Frontend
+
+React
+
+TailwindCSS
+
+Bootstrap
+
+### DevOps
+
+Docker
+
+GitHub Actions
+
+Git
+
+Maven
+
+Prometheus
+
+### Core CS
+
+Data Structures & Algorithms
+
+Object-Oriented Programming
+
+Concurrency
+
+Distributed Systems
+
+System Design
+
+---
+
+# Currently Exploring
 
 - Spring AI
-- Generative AI
-- Machine Learning
-- Azure AI Services
-- Distributed Systems
-- Event Driven Architecture
+- Azure AI
 - Apache Kafka
+- Machine Learning
+- Event-Driven Systems
 - Agentic AI
 
 ---
 
-# 💻 Tech Stack
+# GitHub Stats
 
-## Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts"/>
-</p>
-
-## Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=spring,maven"/>
-</p>
-
-## Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,angular,tailwind"/>
-</p>
-
-## Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
-</p>
-
-## DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,azure"/>
-</p>
-
-## Testing & Tools
-
-- JUnit 5
-- Mockito
-- Kafka
-- Postman
-- REST APIs
-- JWT
-- GitHub Actions
-
----
-
-# 📊 GitHub Statistics
+> ⚠️ GitHub statistics widgets occasionally become unavailable due to API rate limits on free hosting. If any widget below is blank, the README is still correct—the external service is temporarily unavailable.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryangaikwad-966&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryangaikwad-966&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryangaikwad-966&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryangaikwad-966&layout=compact&theme=tokyonight"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=aryangaikwad-966&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=aryangaikwad-966&theme=tokyonight"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
 
@@ -162,18 +213,10 @@ Java • Spring Boot • PostgreSQL • Redis • Docker • AWS KMS
 
 ---
 
-# 📫 Let's Connect
+# Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/aryan-gaikwad-943474334
-- 📧 Email: aryangaikwad966@gmail.com
-- 📷 Instagram: @_aryannn6_
+📧 aryangaikwad966@gmail.com
 
----
+💼 LinkedIn
 
-<div align="center">
-
-### Thanks for visiting my profile!
-
-⭐ If you like my projects, feel free to star them.
-
-</div>
+⭐ Open to backend engineering, distributed systems, and AI application development.
