@@ -1,103 +1,151 @@
-# 💫 About Me
+<div align="center">
 
-🎓 Final-year Information Technology student passionate about building scalable backend systems and AI-powered applications.
+# Hi 👋, I'm Aryan Gaikwad
 
-🔭 **Currently building**
-- **Cranberry** – AI-powered Multi-Vendor E-Commerce Platform
-- **FlowForge** – Workflow Orchestration Engine
-- **UPI Offline Mesh** – Offline Payment Routing Infrastructure
+### Java Backend Engineer • AI Backend Engineer • Agentic AI Enthusiast
 
-🌱 **Currently learning**
-- Spring AI & Generative AI
-- Machine Learning fundamentals
-- Azure AI Services
-- Distributed Systems & Event-Driven Architecture
+Building scalable backend systems, distributed applications, and AI-powered software using Java & Spring Boot.
 
-👯 **Open to collaborate on**
-- Java & Spring Boot backend projects
-- AI-powered applications
-- Distributed systems
-- Open-source backend tools
-
-💬 **Ask me about**
-- Java
-- Spring Boot
-- REST APIs
-- Spring Security & JWT
-- Kafka
-- System Design
-- Backend Architecture
-
-🎯 **Career Focus**
-Java Backend Engineer → AI Backend Engineer → Agentic AI Engineer
-
-⚡ **Fun Fact**
-I enjoy building production-style backend systems that solve real engineering problems rather than simple CRUD applications.
-
----
-
-# 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-gaikwad-943474334)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_aryannn6_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-gaikwad-943474334)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryangaikwad966@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_aryannn6_)
+
+</div>
 
 ---
 
-# 💻 Tech Stack
+# 🚀 About Me
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+🎓 Final-year Information Technology student passionate about backend engineering and AI-powered systems.
 
-### Backend
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+💻 I enjoy designing scalable software that focuses on clean architecture, reliability, and real-world engineering practices.
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Currently Building
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+- 🛒 **Cranberry** — AI-Powered Multi-Vendor E-Commerce Platform
+- ⚙️ **FlowForge** — Workflow Orchestration Engine
+- 💳 **UPI Offline Mesh** — Offline Payment Routing Infrastructure
 
-### Messaging & Cloud
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+### Currently Learning
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+- Spring AI
+- Generative AI
+- Machine Learning Fundamentals
+- Azure AI Services
+- Distributed Systems
+- Event-Driven Architecture
 
----
+### Career Goal
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=aryangaikwad-966&theme=tokyonight&show_icons=true&hide_border=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=aryangaikwad-966&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aryangaikwad-966&theme=tokyonight&layout=compact&hide_border=true)
+```
+Java Backend Engineer
+        ↓
+AI Backend Engineer
+        ↓
+Agentic AI Engineer
+```
 
 ---
 
-## 🏆 GitHub Trophies
+# 🛠 Tech Stack
 
-![](https://github-profile-trophy.vercel.app/?username=aryangaikwad-966&theme=tokyonight&no-frame=true&no-bg=true)
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,ts,python"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=spring"/>
+<img src="https://skillicons.dev/icons?i=maven"/>
+<img src="https://skillicons.dev/icons?i=hibernate"/>
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,angular,tailwind"/>
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb"/>
+</p>
+
+## DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,azure"/>
+</p>
+
+## Tools & Testing
+
+- Kafka
+- JUnit 5
+- Mockito
+- Postman
+- REST APIs
+- JWT Authentication
+- GitHub Actions
 
 ---
 
-## 📈 Contributions
+# 📌 Featured Projects
 
-![](https://github-contributor-stats.vercel.app/api?username=aryangaikwad-966&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+## 🛒 Cranberry
+AI-powered multi-vendor marketplace integrating Spring Boot, React, JWT authentication, Razorpay, and on-device LLM assistance.
 
 ---
+
+## ⚙️ FlowForge
+Production-style workflow orchestration engine supporting state transitions, optimistic locking, caching, and event-driven processing.
+
+---
+
+## 💳 UPI Offline Mesh
+Offline-first payment routing infrastructure featuring Redis idempotency, encryption, retry mechanisms, and distributed backend architecture.
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryangaikwad-966&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryangaikwad-966&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=aryangaikwad-966&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aryangaikwad-966&theme=tokyonight&no-frame=true&no-bg=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+[![Aryan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aryangaikwad-966&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+<p align="center">
 
 ![](https://visitcount.itsvg.in/api?id=aryangaikwad-966&icon=5&color=6)
+
+</p>
