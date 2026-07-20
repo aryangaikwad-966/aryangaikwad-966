@@ -7,118 +7,125 @@
 Building scalable backend systems, distributed architectures, and AI-powered applications with Java & Spring Boot.
 
 <p>
-<a href="mailto:aryangaikwad966@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/aryan-gaikwad-943474334">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/aryangaikwad-966">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+  <a href="mailto:aryangaikwad966@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/aryan-gaikwad-943474334">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/aryangaikwad-966">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=aryangaikwad-966&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=aryangaikwad-966&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 Final-year B.E. Information Technology student
+🎓 Final-year Information Technology student passionate about backend engineering, distributed systems, and AI-powered applications.
 
-💻 Passionate about backend engineering, distributed systems, and AI-powered applications.
+🔭 **Featured Projects**
 
-🌱 Currently exploring:
+- 🛒 Cranberry — AI-Powered Multivendor Marketplace
+- ⚙️ FlowForge — Workflow Orchestration Engine
+- 💳 MeshPay — Offline-First Payment Infrastructure
+
+🌱 **Currently Learning**
 
 - Spring AI
 - Apache Kafka
-- Agentic AI
-- Azure AI Services
+- Distributed Systems
+- Event-Driven Architecture
+- Machine Learning Fundamentals
 
-🎯 Interested in building production-ready software with clean architecture, concurrency, scalability, and reliability.
+💬 **Ask Me About**
 
----
-
-## ⭐ Featured Projects
-
-### 🛒 Cranberry
-
-AI-powered multi-vendor marketplace featuring secure multi-tenant architecture, Razorpay integration, and an on-device AI shopping assistant powered by Ollama.
-
-**Tech:** Java • Spring Boot • React • MySQL • JWT • Razorpay • Ollama
-
----
-
-### ⚙️ FlowForge
-
-Workflow orchestration engine supporting configurable approval pipelines, optimistic locking, asynchronous event processing, and scalable workflow execution.
-
-**Tech:** Java • Spring Boot • MySQL • React • Docker
+- Java
+- Spring Boot
+- Spring Security
+- REST APIs
+- JWT Authentication
+- Transaction Management
+- Concurrency
+- System Design
 
 ---
 
-### 💳 MeshPay
+# 🛠 Tech Stack
 
-Offline-first payment infrastructure implementing Redis idempotency, hybrid encryption, and fault-tolerant transaction processing.
+### 💻 Languages
 
-**Tech:** Java • Spring Boot • PostgreSQL • Redis • Docker
-
----
-
-## 🛠 Tech Stack
-
-### Languages
+☕ Java • 🐍 Python • 🗄 SQL • 🟨 JavaScript • 🔷 TypeScript
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,ts"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts"/>
 </p>
 
-### Backend & APIs
+---
+
+### ⚙️ Backend
+
+🌱 Spring Boot • 🌿 Spring MVC • 🔐 Spring Security • 🗃 Hibernate • 📦 Maven
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,maven"/>
+<img src="https://skillicons.dev/icons?i=spring,maven,hibernate"/>
 </p>
 
-### Frontend
+---
+
+### 🎨 Frontend
+
+⚛️ React • 🌬 Tailwind CSS • 🅱 Bootstrap
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
 </p>
 
-### Databases
+---
+
+### 🗄 Databases
+
+🐬 MySQL • 🐘 PostgreSQL • 🔴 Redis
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis"/>
 </p>
 
-### DevOps
+---
+
+### ☁️ DevOps & Tools
+
+🐳 Docker • 🌿 Git • ⚡ GitHub Actions • 📬 Postman • 📊 Prometheus
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,githubactions,postman"/>
 </p>
 
-### Testing & Monitoring
-
-<p>
-
-<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Mockito-78C257?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-
-</p>
+🧪 JUnit 5 • 🎭 Mockito
 
 ---
 
-## 📊 GitHub Stats
+# 📌 Featured Projects
 
-> **Note:** GitHub statistics are powered by third-party services and may occasionally be unavailable due to API rate limits.
+### 🛒 Cranberry
+
+AI-powered multi-vendor marketplace with secure payments and an on-device AI shopping assistant.
+
+### ⚙️ FlowForge
+
+Production-grade workflow orchestration engine with optimistic locking, transaction management, Spring Events, and asynchronous processing.
+
+### 💳 MeshPay
+
+Offline-first payment infrastructure featuring idempotency, encryption, resilience patterns, and distributed backend architecture.
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -136,7 +143,7 @@ Offline-first payment infrastructure implementing Redis idempotency, hybrid encr
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -148,6 +155,6 @@ Offline-first payment infrastructure implementing Redis idempotency, hybrid encr
 
 <div align="center">
 
-### Thanks for visiting! ⭐
+### ⭐ Thanks for visiting my profile!
 
 </div>
