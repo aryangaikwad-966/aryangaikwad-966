@@ -1,24 +1,27 @@
 <div align="center">
 
-# Hi 👋, I'm Aryan Gaikwad
+# Hi there 👋 I'm Aryan Gaikwad
 
 ### Java Backend Engineer • AI Backend Engineer • Agentic AI Enthusiast
 
 Building scalable backend systems, distributed applications, and AI-powered software with Java & Spring Boot.
 
 <p>
-  <a href="mailto:aryangaikwad966@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/aryan-gaikwad-943474334">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/_aryannn6_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
+<a href="mailto:aryangaikwad966@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/aryan-gaikwad-943474334">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/_aryannn6_">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=aryangaikwad-966&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=aryangaikwad-966&style=for-the-badge&color=0e75b6"/>
 
 </div>
 
@@ -26,109 +29,116 @@ Building scalable backend systems, distributed applications, and AI-powered soft
 
 # 🚀 About Me
 
-🎓 Final-year Information Technology student passionate about building scalable backend systems and AI-powered applications.
+🎓 Final Year Information Technology Student
 
-💻 I enjoy solving real engineering problems through clean architecture, distributed systems, and production-ready backend development.
+💡 Passionate about building production-ready backend systems, distributed architectures, and AI-powered applications.
 
-## 🔭 Current Projects
+🎯 **Career Goal**
 
-- 🛒 **Cranberry** — AI-Powered Multi-Vendor E-Commerce Platform
-- ⚙️ **FlowForge** — Workflow Orchestration Engine
-- 💳 **UPI Offline Mesh** — Offline Payment Routing Infrastructure
-
-## 🌱 Currently Learning
-
-- Spring AI
-- Generative AI
-- Machine Learning Fundamentals
-- Azure AI Services
-- Distributed Systems
-- Event-Driven Architecture
-- Kafka
-
-## 💬 Ask Me About
-
-- Java
-- Spring Boot
-- REST APIs
-- Spring Security
-- JWT Authentication
-- Kafka
-- System Design
-- Backend Development
+```
+Java Backend Engineer
+        ↓
+AI Backend Engineer
+        ↓
+Agentic AI Engineer
+```
 
 ---
 
-# 🛠️ Tech Stack
+# 🔨 Featured Projects
 
-### Languages
+## 🛒 Cranberry
+
+AI-powered Multi-Vendor Marketplace built with Spring Boot, React, JWT Authentication, Razorpay Integration, and Local LLM Assistant.
+
+**Tech**
+
+Java • Spring Boot • React • MySQL • JWT • Ollama • Docker
+
+---
+
+## ⚙️ FlowForge
+
+Workflow Orchestration Engine supporting scalable workflow execution, optimistic locking, caching, and event-driven architecture.
+
+**Tech**
+
+Java • Spring Boot • MySQL • Spring Events • Caffeine Cache • Docker
+
+---
+
+## 💳 UPI Offline Mesh
+
+Offline-first Payment Routing Infrastructure implementing Redis idempotency, encryption, retries, and distributed backend architecture.
+
+**Tech**
+
+Java • Spring Boot • PostgreSQL • Redis • Docker • AWS KMS
+
+---
+
+# 🌱 Currently Learning
+
+- Spring AI
+- Generative AI
+- Machine Learning
+- Azure AI Services
+- Distributed Systems
+- Event Driven Architecture
+- Apache Kafka
+- Agentic AI
+
+---
+
+# 💻 Tech Stack
+
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python"/>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts"/>
 </p>
 
-### Backend
+## Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=spring,maven"/>
 </p>
 
-### Frontend
+## Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,angular,tailwind"/>
 </p>
 
-### Databases
+## Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis"/>
 </p>
 
-### DevOps & Cloud
+## DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github,azure"/>
 </p>
 
-### Tools
+## Testing & Tools
 
-<p>
-
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-6DB33F?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-</p>
-
----
-
-# 📌 Featured Projects
-
-### 🛒 Cranberry
-
-AI-powered multi-vendor marketplace featuring Spring Boot, React, JWT authentication, Razorpay integration, and an on-device AI shopping assistant.
+- JUnit 5
+- Mockito
+- Kafka
+- Postman
+- REST APIs
+- JWT
+- GitHub Actions
 
 ---
 
-### ⚙️ FlowForge
-
-Production-grade workflow orchestration engine with optimistic locking, event-driven processing, caching, and scalable workflow execution.
-
----
-
-### 💳 UPI Offline Mesh
-
-Offline-first payment routing infrastructure implementing Redis idempotency, secure encryption, retries, and distributed backend architecture.
-
----
-
-# 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryangaikwad-966&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryangaikwad-966&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryangaikwad-966&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -146,36 +156,24 @@ Offline-first payment routing infrastructure implementing Redis idempotency, sec
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryangaikwad-966&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryangaikwad-966&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📫 Let's Connect
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aryangaikwad-966&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📈 Top Contributed Repository
-
-<p align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=aryangaikwad-966&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-
-</p>
+- 💼 LinkedIn: https://linkedin.com/in/aryan-gaikwad-943474334
+- 📧 Email: aryangaikwad966@gmail.com
+- 📷 Instagram: @_aryannn6_
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer"/>
+⭐ If you like my projects, feel free to star them.
 
 </div>
