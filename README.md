@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aryan Gaikwad</h1>
 
 <h3 align="center">
-Java Backend Engineer • Building for Correctness & Concurrency
+Java Backend Engineer • AI Backend Engineer
 </h3>
 
 <p align="center">
