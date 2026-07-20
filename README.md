@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aryan Gaikwad</h1>
 
 <h3 align="center">
-Java Backend Engineer • Transactional Systems • Applied AI
+Java Backend Engineer • Building for Correctness & Concurrency
 </h3>
 
 <p align="center">
-Building correctness-first backend systems in Java & Spring Boot — with a focus on transactional integrity and reliability under concurrency.
+Backend systems in Java & Spring Boot — engineered for transactional integrity and reliability under concurrent load, not just demo-ready features.
 </p>
 
 <p align="center">
@@ -24,12 +24,11 @@ Building correctness-first backend systems in Java & Spring Boot — with a focu
 
 ## 🚀 About Me
 
-- 🎓 Final-year Information Technology student (B.E., 2023–2027)
-- 💻 Focused on backend correctness — transaction boundaries, concurrency safety, and data integrity, not just feature delivery
-- 🧠 Building on-device and self-hosted AI integrations (Ollama) instead of defaulting to paid cloud LLM APIs
-- 🌱 Currently exploring Spring AI, Kafka, and agentic AI architectures
-- 🎯 Goal: backend engineering roles where correctness under concurrency actually matters — fintech, payments, distributed workflow systems
-- ⚡ I build for production constraints, not demo happy-paths
+- 🎓 Final-year B.E. Information Technology student, Bharati Vidyapeeth College of Engineering, Navi Mumbai (2023–2027)
+- 💻 Backend engineer specializing in Java & Spring Boot — focused on transactional correctness, concurrency safety, and reliability, not generic full-stack breadth
+- 🌱 Currently exploring Spring AI, Kafka, and Agentic AI systems
+- 🎯 Career direction: Java Backend → AI-integrated Backend → Agentic AI Engineering
+- ⚡ I build systems that hold up under concurrent load — not just happy-path demos
 
 ---
 
@@ -39,35 +38,55 @@ Building correctness-first backend systems in Java & Spring Boot — with a focu
 `Java` • `SQL` • `JavaScript` • `TypeScript`
 
 **Backend**
-`Spring Boot` • `Spring Security` • `REST APIs` • `JWT` • `JPA/Hibernate`
-
-**Frontend**
-`React` • `Tailwind CSS`
+`Spring Boot` • `Spring MVC` • `Spring Security` • `REST APIs` • `JWT` • `JPA/Hibernate`
 
 **Databases**
 `MySQL` • `PostgreSQL` • `Redis`
 
-**Tools**
-`Docker` • `Git` • `GitHub Actions` • `Postman` • `JUnit 5` • `Mockito`
+**Frontend**
+`React.js` • `Tailwind CSS` • `Bootstrap`
+
+**Testing & DevOps**
+`JUnit 5` • `Mockito` • `Docker` • `GitHub Actions` • `Prometheus` • `Maven` • `Postman`
 
 **Core CS**
-`DSA` • `Concurrency` • `Transactional Systems` • `System Design`
+`DSA` • `OOP` • `Concurrency` • `System Design`
 
 ---
 
 ## ⭐ Featured Projects
 
 ### ⚙️ FlowForge — Workflow Orchestration Engine
-Domain-agnostic multi-stage approval engine with a concurrency-safe state transition core (`@Version` optimistic locking, `@Transactional(REQUIRES_NEW)`), decoupled via Spring Events for async task processing.
 `Java 17` `Spring Boot 3.2` `MySQL` `React 19` `Docker`
+Domain-agnostic, multi-stage approval pipeline platform. Concurrency-safe state transitions via `@Version` optimistic locking and `@Transactional(propagation = REQUIRES_NEW)`, with Spring Events (`@TransactionalEventListener`) decoupling triggers from core logic and Caffeine caching for async task processing.
 
 ### 🛒 Cranberry — AI-Powered Multivendor Marketplace
-Multi-tenant marketplace with service-layer data isolation across CUSTOMER/VENDOR/ADMIN roles, HMAC-SHA256 Razorpay payment flows, and a self-hosted Ollama shopping assistant — no cloud LLM cost.
 `Java 17` `Spring Boot 3.2` `React 18` `MySQL` `JWT` `Razorpay` `Ollama`
+Multi-tenant marketplace (CUSTOMER / VENDOR / ADMIN) with service-layer data isolation and HMAC-SHA256-secured Razorpay payment flows (create, retry, failure handling). Self-hosted Ollama LLM powers an on-device shopping assistant using composite relevance scoring — no cloud LLM costs.
 
 ### 💳 MeshPay — Offline-First Payment Infrastructure
-Fault-tolerant payment system with dual-layer idempotency (Redis atomic `SETNX` + unique DB index), RSA-2048-OAEP/AES-256-GCM hybrid encryption, and Resilience4j rate limiting.
 `Java 17` `Spring Boot 3.3` `PostgreSQL` `Redis` `Docker`
+Fault-tolerant payment processing with dual-layer idempotency (Redis atomic `SETNX` + unique DB index) preventing duplicate transactions under race conditions. RSA-2048-OAEP + AES-256-GCM hybrid encryption on payment packets, hardened with Resilience4j rate limiting and Prometheus instrumentation.
+
+---
+
+## 💼 Experience
+
+**Full Stack Developer Intern** — Vibgyor Advicorp Pvt Ltd *(Feb 2026 – Apr 2026)*
+Delivered 12 production backend modules with explicit transaction boundaries; implemented JWT + BCrypt + role-based `@PreAuthorize` access control across 3 tiers; designed a normalized 20-table MySQL schema, cutting query execution time ~40% under concurrent load.
+
+**Web Development Intern** — SkillCraft Technology *(Aug 2025 – Sep 2025)*
+Built responsive React applications with reusable component architecture and mobile-first design.
+
+---
+
+## 📜 Certifications
+
+- IBM Skills Network — Master in Full Stack Web Development with Java
+- Anthropic — Claude with the Anthropic API
+- JPMorgan Chase — Software Engineering Job Simulation
+- Microsoft Azure AI Essentials Professional Certificate
+- McKinsey Forward Program
 
 ---
 
@@ -98,8 +117,6 @@ Fault-tolerant payment system with dual-layer idempotency (Redis atomic `SETNX` 
 
 📧 **aryangaikwad966@gmail.com**
 💼 **LinkedIn:** https://linkedin.com/in/aryan-gaikwad-943474334
-
----
 
 <p align="center">
 Thanks for visiting my profile ⭐
