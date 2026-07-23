@@ -40,7 +40,7 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 - Apache Kafka
 - Distributed Systems
 - Event-Driven Architecture
-- Machine Learning Fundamentals
+- Agentic AI Fundamentals
 
 💬 **Ask Me About**
 
