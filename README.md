@@ -29,7 +29,7 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 🎓 Final-year Information Technology student passionate about backend engineering, distributed systems, and AI-powered applications.
 
 🔭 **Featured Projects**
-
+- 🤖 VoxCode - Agentic Java RAG Code Intelligence (Current Building)
 - 🛒 Cranberry — AI-Powered Multivendor Marketplace
 - ⚙️ FlowForge — Workflow Orchestration Engine
 - 💳 MeshPay — Offline-First Payment Infrastructure
