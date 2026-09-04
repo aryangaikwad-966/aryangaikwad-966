@@ -4,7 +4,7 @@
 
 ### Java Backend Engineer • AI Backend Engineer
 
-Building scalable backend systems, distributed architectures, and AI-powered applications with Java & Spring Boot.
+Building scalable backend systems, distributed architectures, and AI-powered applications using **Java, Spring Boot, and modern AI technologies**.
 
 <p>
   <a href="mailto:aryangaikwad966@gmail.com">
@@ -26,102 +26,125 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 
 # 🚀 About Me
 
-🎓 Final-year Information Technology student passionate about backend engineering, distributed systems, and AI-powered applications.
+🎓 Final-year Information Technology student focused on **backend engineering, distributed systems, and AI-powered applications**.
 
 🔭 **Featured Projects**
-- 🤖 VoxCode — Agentic Java RAG Code Intelligence (Current Building)
-- 🛒 Cranberry — AI-Powered Multivendor Marketplace
-- ⚙️ FlowForge — Workflow Orchestration Engine
-- 💳 MeshPay — Offline-First Payment Infrastructure
+
+* 🤖 **VoxCode** — Agentic AI-powered Java code intelligence platform with RAG
+* 🛒 **Cranberry** — AI-powered multi-vendor marketplace
+* ⚙️ **FlowForge** — Workflow orchestration engine
+* 💳 **MeshPay** — Offline-first payment infrastructure
 
 🌱 **Currently Learning**
 
-- Spring AI
-- Apache Kafka
-- Distributed Systems
-- Event-Driven Architecture
-- Agentic AI Fundamentals
+* Spring AI
+* Apache Kafka
+* Distributed Systems
+* Event-Driven Architecture
+* Agentic AI
+* Production Backend Engineering
 
 💬 **Ask Me About**
 
-- Java
-- Spring Boot
-- Spring Security
-- REST APIs
-- JWT Authentication
-- Transaction Management
-- Concurrency
-- System Design
+* Java
+* Spring Boot
+* Spring Security
+* REST APIs
+* JWT Authentication
+* Transaction Management
+* Concurrency
+* Distributed Systems
+* Backend System Design
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
-☕ Java • 🐍 Python • 🗄 SQL • 🟨 JavaScript • 🔷 TypeScript
-
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,ts"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
 </p>
+
+**Java • Python • SQL • JavaScript • TypeScript**
 
 ---
 
 ### ⚙️ Backend
 
-🌱 Spring Boot • 🌿 Spring MVC • 🔐 Spring Security • 🗃 Hibernate • 📦 Maven
-
 <p>
-<img src="https://skillicons.dev/icons?i=spring,maven,hibernate"/>
+  <img src="https://skillicons.dev/icons?i=spring,maven,hibernate" />
 </p>
+
+**Spring Boot • Spring MVC • Spring Security • Hibernate • Maven**
 
 ---
 
 ### 🎨 Frontend
 
-⚛️ React • 🌬 Tailwind CSS • 🅱 Bootstrap
-
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 </p>
+
+**React • Tailwind CSS • Bootstrap**
 
 ---
 
-### 🗄 Databases
-
-🐬 MySQL • 🐘 PostgreSQL • 🔴 Redis
+### 🗄️ Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,redis"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
 </p>
+
+**MySQL • PostgreSQL • Redis**
 
 ---
 
 ### ☁️ DevOps & Tools
 
-🐳 Docker • 🌿 Git • ⚡ GitHub Actions • 📬 Postman • 📊 Prometheus
-
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,githubactions,postman"/>
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,postman,prometheus" />
 </p>
 
-🧪 JUnit 5 • 🎭 Mockito
+**Docker • Git • GitHub Actions • Postman • Prometheus**
+
+### 🧪 Testing
+
+**JUnit 5 • Mockito**
 
 ---
 
 # 📌 Featured Projects
 
+### 🤖 VoxCode
+
+**Agentic AI-powered Java code intelligence platform** designed to investigate codebases, retrieve relevant context, reason over evidence, and support controlled software-engineering workflows using **RAG and agentic AI**.
+
+**Core focus:** Code Intelligence • RAG • Agentic AI • Java • Spring Boot
+
+---
+
 ### 🛒 Cranberry
 
-AI-powered multi-vendor marketplace with secure payments and an on-device AI shopping assistant.
+**AI-powered multi-vendor marketplace** with secure transaction processing and an AI shopping assistant designed to improve product discovery and customer interaction.
+
+**Core focus:** Spring Boot • REST APIs • Security • Payments • AI Integration
+
+---
 
 ### ⚙️ FlowForge
 
-Production-grade workflow orchestration engine with optimistic locking, transaction management, Spring Events, and asynchronous processing.
+**Production-grade workflow orchestration engine** built around reliable workflow execution, optimistic locking, transaction management, Spring Events, and asynchronous processing.
+
+**Core focus:** Concurrency • Transactions • Event-Driven Architecture • Async Processing
+
+---
 
 ### 💳 MeshPay
 
-Offline-first payment infrastructure featuring idempotency, encryption, resilience patterns, and distributed backend architecture.
+**Offline-first payment infrastructure** focused on reliable transaction processing through idempotency, encryption, resilience patterns, and distributed backend architecture.
+
+**Core focus:** Distributed Systems • Idempotency • Resilience • Security • Backend Architecture
 
 ---
 
