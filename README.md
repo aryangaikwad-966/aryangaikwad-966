@@ -8,17 +8,17 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 
 <p>
   <a href="mailto:aryangaikwad966@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/aryan-gaikwad-943474334">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/aryangaikwad-966">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=aryangaikwad-966&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=aryangaikwad-966&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 
 </div>
 
@@ -63,7 +63,7 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts" alt="Languages"/>
 </p>
 
 **Java • Python • SQL • JavaScript • TypeScript**
@@ -73,7 +73,7 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,maven,hibernate" />
+  <img src="https://skillicons.dev/icons?i=spring,maven,hibernate" alt="Backend Technologies"/>
 </p>
 
 **Spring Boot • Spring MVC • Spring Security • Hibernate • Maven**
@@ -83,7 +83,7 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" alt="Frontend Technologies"/>
 </p>
 
 **React • Tailwind CSS • Bootstrap**
@@ -93,7 +93,7 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" alt="Databases"/>
 </p>
 
 **MySQL • PostgreSQL • Redis**
@@ -103,10 +103,12 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 ### ☁️ DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,postman,prometheus" />
+  <img src="https://skillicons.dev/icons?i=docker,git,githubactions,postman,prometheus" alt="DevOps and Tools"/>
 </p>
 
 **Docker • Git • GitHub Actions • Postman • Prometheus**
+
+---
 
 ### 🧪 Testing
 
@@ -120,7 +122,7 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 
 **Agentic AI-powered Java code intelligence platform** designed to investigate codebases, retrieve relevant context, reason over evidence, and support controlled software-engineering workflows using **RAG and agentic AI**.
 
-**Core focus:** Code Intelligence • RAG • Agentic AI • Java • Spring Boot
+**Core Focus:** Code Intelligence • RAG • Agentic AI • Java • Spring Boot
 
 ---
 
@@ -128,7 +130,7 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 
 **AI-powered multi-vendor marketplace** with secure transaction processing and an AI shopping assistant designed to improve product discovery and customer interaction.
 
-**Core focus:** Spring Boot • REST APIs • Security • Payments • AI Integration
+**Core Focus:** Spring Boot • REST APIs • Security • Payments • AI Integration
 
 ---
 
@@ -136,7 +138,7 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 
 **Production-grade workflow orchestration engine** built around reliable workflow execution, optimistic locking, transaction management, Spring Events, and asynchronous processing.
 
-**Core focus:** Concurrency • Transactions • Event-Driven Architecture • Async Processing
+**Core Focus:** Concurrency • Transactions • Event-Driven Architecture • Async Processing
 
 ---
 
@@ -144,7 +146,7 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 
 **Offline-first payment infrastructure** focused on reliable transaction processing through idempotency, encryption, resilience patterns, and distributed backend architecture.
 
-**Core focus:** Distributed Systems • Idempotency • Resilience • Security • Backend Architecture
+**Core Focus:** Distributed Systems • Idempotency • Resilience • Security • Backend Architecture
 
 ---
 
@@ -152,15 +154,15 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aryangaikwad-966&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aryangaikwad-966&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub Stats"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryangaikwad-966&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryangaikwad-966&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=aryangaikwad-966&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=aryangaikwad-966&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak"/>
 
 </p>
 
@@ -170,7 +172,7 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryangaikwad-966&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryangaikwad-966&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph"/>
 
 </p>
 
