@@ -30,7 +30,7 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 
 🔭 **Featured Projects**
 
-* 🤖 **VoxCode** — Agentic AI-powered Java code intelligence platform with RAG
+* 🤖 **VoxCode** — Agentic AI-powered Java code intelligence platform with RAG (Current Building)
 * 🛒 **Cranberry** — AI-powered multi-vendor marketplace
 * ⚙️ **FlowForge** — Workflow orchestration engine
 * 💳 **MeshPay** — Offline-first payment infrastructure
