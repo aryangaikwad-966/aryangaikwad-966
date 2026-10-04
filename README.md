@@ -39,7 +39,6 @@ Building scalable backend systems, distributed architectures, and AI-powered app
 * Apache Kafka
 * Distributed Systems
 * Event-Driven Architecture
-* Agentic AI
 * Production Backend Engineering
 
 💬 **Ask Me About**
